@@ -1,4 +1,4 @@
-# เปลี่ยนฟอนต์ TH Sarabun New ใน Dota 2 เป็น ChulaCharasNew หรือ CHULALONGKORN
+# เปลี่ยนฟอนต์ TH Sarabun New ใน Dota 2 เป็น ~~ChulaCharasNew หรือ CHULALONGKORN~~ Noto Sans Thai Looped (เพราะมันสวยกว่า)
 ## แก้ปัญหาอะไร?
 - แก้ไขฟอนต์ตัวบาง ไม่สมส่วนกับฟอนต์ภาษาอื่น ทำให้ชัดเจนมากขึ้น
   - ตัวหนาขึ้นทำให้อ่านง่ายมากขึ้น 
@@ -11,10 +11,10 @@
 
 ## ตัวอย่าง
 
-### CHULALONGKORN
-![ตัวอย่าง1](https://cdn.discordapp.com/attachments/730743993503318098/1148849071256260659/D8nnFrf.png)
-### ChulaCharasNew
-![ตัวอย่าง2](https://media.discordapp.net/attachments/730743993503318098/1148849071843455038/W1ZHoxq.png)
+### Noto Sans Thai Looped
+![ตัวอย่าง 1](https://files.catbox.moe/jnxmlo.png)
+![ตัวอย่าง 2](https://files.catbox.moe/4z3uh3.png)
+![ตัวอย่าง 3](https://files.catbox.moe/o54122.png)
 
 ## Note
-ลิขสิทธิ์แบบอักษรทั้งหมดเป็นของจุฬาลงกรณ์มหาวิทยาลัย
+Noto Sans Thai Looped จาก Google Fonts แต่แก้ Typo Offset ให้เท่าของ Noto Sans Thai ที่มากับเกม (Deadlock/CS2)
